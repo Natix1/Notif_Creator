@@ -17,3 +17,8 @@ https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe
 Solution #2 - Didn't place icon.ico and Notif creator.py together
 
 1. Place notif creator.py and icon.ico in the same folder
+\
+
+
+
+By the way im a trash developer so dont expect much from this
