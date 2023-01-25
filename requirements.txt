@@ -1,0 +1,8 @@
+pip install tkinter
+pip install win10toast
+pip install os
+pip install threading
+pip install ToastNotifier
+pip install ttk
+
+Only if you want to install on your own
